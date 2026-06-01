@@ -1,0 +1,21 @@
+{
+  "name": "typescript-for-javascript-dvelopers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soh-prog/typescript-for-javascript-dvelopers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/soh-prog/typescript-for-javascript-dvelopers/issues"
+  },
+  "homepage": "https://github.com/soh-prog/typescript-for-javascript-dvelopers#readme"
+}
